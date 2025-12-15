@@ -77,7 +77,7 @@ xor g6(c6,a,b);
 xnor g7(c7,a,b);
 endmodule 
 
- Developed by: RegisterNumber: 25007878
+ Developed by:Lavanya A RegisterNumber: 25007878
  
 **Logic symbol & Truthtable**
 <img width="722" height="687" alt="image" src="https://github.com/user-attachments/assets/854c1747-8528-46c6-9234-4fdcb7b05b91" />
